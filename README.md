@@ -28,5 +28,5 @@ Este projeto é de código aberto e está disponível sob a Licença MIT.
 
 ## Agradecimentos
 
-Este projeto faz parte do programa sharpCoders da Imã tech
+Este projeto faz parte do programa sharpCoders da Imã tech em parceria com a MXM Sistemas.
 
